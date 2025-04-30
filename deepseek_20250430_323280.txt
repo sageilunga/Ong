@@ -1,4 +1,4 @@
-egliselacompassion/
+eglisececcentral/
 ├── index.html          # Page d'accueil
 ├── about.html          # Page "À propos"
 ├── events.html         # Page "Événements"
