@@ -1,0 +1,12 @@
+egliselacompassion/
+├── index.html          # Page d'accueil
+├── about.html          # Page "À propos"
+├── events.html         # Page "Événements"
+├── media.html          # Page "Médias"
+├── contact.html        # Page "Contact"
+├── donate.html         # Page "Dons"
+├── css/
+│   └── style.css       # Styles principaux
+├── js/
+│   └── main.js         # Scripts JavaScript
+└── images/             # Dossier pour les médias
